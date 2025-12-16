@@ -51,12 +51,12 @@ flutter run -d edge  # ou chrome
 L'application se connecte automatiquement à Ganache
 
 Affiche le nom actuel ("Unknown" par défaut)
-(screenshots/Image1.jpeg)
+![Capture d'écran principale](https://github.com/Fatima-Zahra-Boukamar/TP8_DAPP/raw/main/screenshots/Image1.jpeg)
 Entrez un nouveau nom et cliquez "Mettre à jour"
-(screenshots/image2.jpeg)
+![Capture d'écran principale](https://github.com/Fatima-Zahra-Boukamar/TP8_DAPP/raw/main/screenshots/Image2.jpeg)
 Attendez la confirmation (3-5 secondes)
 
 Rafraîchissez pour voir le changement
-(screenshots/image3.jpeg)
+![Capture d'écran principale](https://github.com/Fatima-Zahra-Boukamar/TP8_DAPP/raw/main/screenshots/Image3.jpeg)
 A propos de cette appliation:
-(screenshots/info.jpeg)
+![Capture d'écran principale](https://github.com/Fatima-Zahra-Boukamar/TP8_DAPP/raw/main/screenshots/info.jpeg)
